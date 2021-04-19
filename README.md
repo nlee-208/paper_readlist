@@ -12,7 +12,7 @@
 ### NLP/Commonsense
 
 
-## Paper Presentations
+## Presented Papers
 - Bag of Tricks for Efficient TC
 - Connecting the Dots
 - From Recognition to Cognition
