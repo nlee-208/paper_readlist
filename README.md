@@ -21,3 +21,11 @@
 ## Paper Implementations
 - Word2Vec
 - Transformer
+
+
+## Additional Sources
+- https://github.com/thunlp/GNNPapers on GNN must-read
+- https://github.com/mhagiwara/100-nlp-papers on NLP must-read
+- https://github.com/thunlp/RCPapers on RC must-read
+- https://github.com/thunlp/PLMpapers on PLM must-read
+
