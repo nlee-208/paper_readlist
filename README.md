@@ -5,7 +5,7 @@
 #### Localization/Classification
 - OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
 - Deep Residual Learning for Image Recognition
-- 
+
 #### Object Detection
 ##### 1-Stage
 - You Only Look Once: Unified, Real-Time Object Detection
