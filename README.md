@@ -1,6 +1,36 @@
 # Paper Review/Read-List Compile
 
+### Project Ideas
+1) Improving Mask Detection - CV
+- https://arxiv.org/pdf/2105.01816v1.pdf
+- Proposes a method similar to project previously conducted in https://github.com/nlee-208/face_mask_detection
+- Utilizes SSD & YOLOV5 for the classifier... what else can be done?
+
 ## Paper read-list
+### 2020~2021 - prioritized!!
+1) ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision
+- Code:https://github.com/dandelin/ViLT
+- Paper: https://arxiv.org/pdf/2102.03334.pdf
+
+2) AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
+- Code: https://github.com/google-research/vision_transformer
+- Paper: https://arxiv.org/pdf/2010.11929.pdf
+
+3) MLP-Mixer: An all-MLP Architecture for Vision
+- Code: https://github.com/google-research/vision_transformer
+- Paper: https://arxiv.org/pdf/2105.01601.pdf
+
+4) Learning to Perturb Word Embeddings for Out-of-distribution QA
+- Code: ???
+- Paper: https://arxiv.org/pdf/2105.02692v1.pdf
+
+5) Emerging Properties in Self-Supervised Vision Transformers (Dino)
+- Code: https://github.com/facebookresearch/dino
+- Paper: https://arxiv.org/pdf/2104.14294.pdf
+- Supplementary: https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training
+
+- Check out https://www.deepspeed.ai/  ...! DL optimization library
+
 ### CV
 #### Localization/Classification
 - OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
