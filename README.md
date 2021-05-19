@@ -29,6 +29,11 @@
 - Paper: https://arxiv.org/pdf/2104.14294.pdf
 - Supplementary: https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training
 
+6) Pay Attention to MLPs
+- Code:
+- Paper: https://arxiv.org/pdf/2105.08050.pdf
+
+
 - Check out https://www.deepspeed.ai/  ...! DL optimization library
 
 ### CV
