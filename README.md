@@ -6,6 +6,8 @@
 - Proposes a method similar to project previously conducted in https://github.com/nlee-208/face_mask_detection
 - Utilizes SSD & YOLOV5 for the classifier... what else can be done?
 
+2) Code Implementation of MLP-Mixer & gMLP on CIFAR-199
+
 ## Paper read-list
 ### 2020~2021 - prioritized!!
 1) ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision
