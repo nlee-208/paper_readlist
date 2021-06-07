@@ -6,7 +6,7 @@
 - Proposes a method similar to project previously conducted in https://github.com/nlee-208/face_mask_detection
 - Utilizes SSD & YOLOV5 for the classifier... what else can be done?
 
-2) Code Implementation of MLP-Mixer & gMLP on CIFAR-199
+2) Code Implementation of ViT, MLP-Mixer & gMLP on CIFAR-100
 
 ## Paper read-list
 ### 2020~2021 - prioritized!!
