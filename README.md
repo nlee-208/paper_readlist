@@ -1,12 +1,6 @@
 # Paper Review/Read-List Compile
 
 ### Project Ideas
-1) Improving Mask Detection - CV
-- https://arxiv.org/pdf/2105.01816v1.pdf
-- Proposes a method similar to project previously conducted in https://github.com/nlee-208/face_mask_detection
-- Utilizes SSD & YOLOV5 for the classifier... what else can be done?
-
-2) Code Implementation of ViT, MLP-Mixer & gMLP on CIFAR-100
 
 ## Paper read-list
 ### 2020~2021 - prioritized!!
@@ -35,6 +29,9 @@
 - Code:
 - Paper: https://arxiv.org/pdf/2105.08050.pdf
 
+7) An overview of mixing augmentation methods and augmentation strategies (Slow Read)
+- Overview of data augmentation(DA) techniques for top tier papers published from 17' and after
+- Paper: https://arxiv.org/pdf/2107.09887v1.pdf
 
 - Check out https://www.deepspeed.ai/  ...! DL optimization library
 
